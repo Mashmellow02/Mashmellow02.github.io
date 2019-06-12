@@ -1,0 +1,5 @@
+474e3fb7765689e5907dca1d445e7038
+
+https://api.darksky.net/forecast/[key]/[latitude],[longitude]
+
+https://api.darksky.net/forecast/474e3fb7765689e5907dca1d445e7038/41.8398958,-88.3499143
